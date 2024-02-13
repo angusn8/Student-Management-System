@@ -72,7 +72,7 @@ public class CourseManageStub {
         String choice = scan.next();
 
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
 
           // Reprint options for the user
           print.printOptions();
@@ -111,7 +111,7 @@ public class CourseManageStub {
         String choice = scan.next();
 
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
 
           // Reprint options for the user
           print.printOptions();
@@ -158,7 +158,7 @@ public class CourseManageStub {
         String choice = scan.next();
         
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
         
           // Reprint options for the user
           print.printOptions();
@@ -200,7 +200,7 @@ public class CourseManageStub {
         String choice = scan.next();
                 
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
                 
           // Reprint options for the user
           print.printOptions();
@@ -239,7 +239,7 @@ public class CourseManageStub {
         String choice = scan.next();
                 
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
                 
           // Reprint options for the user
           print.printOptions();
@@ -272,7 +272,7 @@ public class CourseManageStub {
         String choice = scan.next();
         
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
         
           // Reprint options for the user
           print.printOptions();
@@ -305,7 +305,7 @@ public class CourseManageStub {
         String choice = scan.next();
 
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
 
           // Reprint options for the user
           print.printOptions();
@@ -337,7 +337,7 @@ public class CourseManageStub {
         String choice = scan.next();
                   
         // Conditional logic for which they selected
-        if (choice.equalsIgnoreCase("y")) {
+        if ("y".equalsIgnoreCase(choice)) {
         
           // Reprint options for the user
           print.printOptions();
